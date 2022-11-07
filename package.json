@@ -1,0 +1,16 @@
+{
+  "name": "@alpha-bytes/sfdxtension",
+  "version": "0.1.0",
+  "description": "Base class used for all sfdxtends extensions",
+  "exports": {
+    ".": "./Sfdxtension.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}
